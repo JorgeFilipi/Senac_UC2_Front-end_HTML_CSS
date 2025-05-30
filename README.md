@@ -41,6 +41,10 @@ Durante a segunda unidade do curso de Python, ministrado pelo Senac, dedicamos n
 
 Os alunos saíram dessa unidade conhecendo e compreendendo os conceitos básicos de HTML e CSS, prontos para enfrentar desafios mais complexos no desenvolvimento de aplicações web. As habilidades adquiridas são um diferencial significativo para os recrutadores, mostrando capacidade de criar interfaces modernas e funcionais.
 
+## link
+
+[Projeto](https://jorgefilipi.github.io/Senac_UC2_Front-end_HTML_CSS/)
+
 ## Contato:
 - **E-mail:** [dev.jdias](mailto:dev.jdias@gmail.com)
 - **LinkedIn:** [Jorge Dias](https://www.linkedin.com/in/jorge-dias-66117629b/)
